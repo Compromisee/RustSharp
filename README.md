@@ -34,16 +34,6 @@ You'll face off against 30 unique CPU opponents and 10 ruthless Bosses. But here
 
 ---
 
-## 📸 Media
-
-*(Add your GIFs and screenshots here once art is integrated)*
-
-|<img src="https://via.placeholder.com/400x225.png?text=Gameplay+Screenshot" width="400">|<img src="https://via.placeholder.com/400x225.png?text=Shop+Menu+Screenshot" width="400">|
-|:---:|:---:|
-| *Intense CUT matches with CRT effects* | *Strategic shop phase* |
-
----
-
 ## 🛠️ Architecture & Tech Stack
 
 This game is built from the ground up in **Rust** using the [**Macroquad**](https://github.com/not-fl3/macroquad) immediate-mode rendering engine. 
@@ -65,7 +55,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ### Build and Run
 Clone the repository and run the game natively:
 ```bash
-git clone https://github.com/yourusername/sharp_game.git
+git clone https://github.com/compromisee/RustSharp.git
 cd sharp_game
 cargo run --release
 ```
